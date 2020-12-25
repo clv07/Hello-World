@@ -1,5 +1,4 @@
 # hello-world
-A new repository.
 
 Hi there.
 Livia is here to say hello to you guys.
